@@ -88,7 +88,7 @@
 
 ## 🦖 PHILOSORAPTOR
 
-> se você não entende o código mas ele funciona… será que ele realmente funciona, ou você só ainda não sofreu o suficiente?  
+> "brasileiro lança produto com vibe coding, diz que os devs acabaram e é hackeado pouco tempo depois."
 
 ---
 
