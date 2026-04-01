@@ -20,7 +20,6 @@
 ---
 
 <p align="left">
-  <img src="dino_sad.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <img src="KKKKKKKKKKKKKKK.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p><b>Velociraptor Dev Sênior</b></p>
@@ -84,7 +83,7 @@
 
 <div align="center">
 
-## 🦖 filosofia
+## 🦖 PHILOSORAPTOR
 
 > “funcionar não significa estar certo”  
 >  
