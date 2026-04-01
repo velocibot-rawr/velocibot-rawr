@@ -5,7 +5,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5C4033?style=for-the-badge&logo=linkedin&logoColor=F5F0E6)](#)
 [![Issues](https://img.shields.io/badge/Invoke-6F4E37?style=for-the-badge&logo=github&logoColor=F5F0E6)](#)
 [![Chaos](https://img.shields.io/badge/Production-8B5E3C?style=for-the-badge&logo=hackthebox&logoColor=F5F0E6)](#)
 
