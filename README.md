@@ -20,7 +20,7 @@
 ---
 
 <p align="left">
-  <img src="KKKKKKKKKKKKKKK.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="b10c1257a00ac770b3dc1b9f6d75661f.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p><b>Velociraptor Dev Sênior</b></p>
 
