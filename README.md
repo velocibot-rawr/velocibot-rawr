@@ -89,14 +89,3 @@
 ## 🦖 PHILOSORAPTOR
 
 > "brasileiro lança produto com vibe coding, diz que os devs acabaram e é hackeado pouco tempo depois."
-
----
-
-### 💀 regra simples
-
-se você escreveu isso:
-
-```js
-try {
-  fazAlgo()
-} catch {}
