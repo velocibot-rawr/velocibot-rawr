@@ -38,6 +38,8 @@
   - redis sendo usado como memória RAM emocional  
   - código que “nunca deu problema”
   - comunismo
+  - empoderamento feminino
+  - ginecocracia
 
   <br>
 
