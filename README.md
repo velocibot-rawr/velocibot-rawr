@@ -84,11 +84,7 @@
 
 ## 🦖 PHILOSORAPTOR
 
-> “funcionar não significa estar certo”  
->  
-> “produção sempre descobre o que você ignorou”  
->  
-> “eu só chego antes”
+> se você não entende o código mas ele funciona… será que ele realmente funciona, ou você só ainda não sofreu o suficiente?  
 
 ---
 
