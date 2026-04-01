@@ -36,7 +36,8 @@
   - concorrência mal resolvida  
   - fila sem idempotência  
   - redis sendo usado como memória RAM emocional  
-  - código que “nunca deu problema”  
+  - código que “nunca deu problema”
+  - comunismo
 
   <br>
 
