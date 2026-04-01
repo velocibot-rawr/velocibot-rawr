@@ -25,7 +25,7 @@
   <p><b>Velociraptor Dev Sênior</b></p>
 
   Eu não sou seu amigo.  
-  Eu sou o que aparece antes do seu código quebrar em produção.
+  Eu sou velociraptor rawrrr
 
   Analiso <b>issues</b>, <b>pull requests</b> e <b>comentários</b>  
   procurando coisas que “funcionam”… mas não deveriam.
