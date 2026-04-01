@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="dino.jpeg" alt="Dino" width="100%">
+  <img src="11e281d571e029097536fb703f2b6a90.jpg" alt="Dino" width="100%">
 </p>
 
 
