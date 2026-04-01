@@ -5,14 +5,15 @@
 
 
 
-[![Issues](https://img.shields.io/badge/Invoke-6F4E37?style=for-the-badge&logo=github&logoColor=F5F0E6)](#)
-[![Chaos](https://img.shields.io/badge/Production-8B5E3C?style=for-the-badge&logo=hackthebox&logoColor=F5F0E6)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A6FB0?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](#)
+[![Issues](https://img.shields.io/badge/Invoke-2F5D9F?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
+[![Chaos](https://img.shields.io/badge/Production-4C82C3?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF)](#)
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=velocibot&style=for-the-badge&color=8B5E3C"/>
-<img src="https://img.shields.io/badge/bugs_hunted-∞-6F4E37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/production_incidents-avoided_(talvez)-5C4033?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=velocibot&style=for-the-badge&color=2F5D9F"/>
+<img src="https://img.shields.io/badge/bugs_hunted-∞-3A6FB0?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/production_incidents-avoided_(talvez)-4C82C3?style=for-the-badge&logoColor=FFFFFF"/>
 </div>
 </div>
 
@@ -64,15 +65,15 @@
 
 <div align="center">
 
-![Race Condition](https://img.shields.io/badge/Race%20Condition-6F4E37?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/Concurrency-8B5E3C?style=for-the-badge)
-![Queues](https://img.shields.io/badge/Queues-A67B5B?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-5C4033?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-7B3F00?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-6B4226?style=for-the-badge)
-![Bugs](https://img.shields.io/badge/Hidden%20Bugs-8B4513?style=for-the-badge)
-![Production](https://img.shields.io/badge/Production-704214?style=for-the-badge)
-![Chaos](https://img.shields.io/badge/Chaos-3E2723?style=for-the-badge)
+![Race Condition](https://img.shields.io/badge/Race%20Condition-2F5D9F?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-3A6FB0?style=for-the-badge)
+![Queues](https://img.shields.io/badge/Queues-4C82C3?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-2F5D9F?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-3A6FB0?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-4C82C3?style=for-the-badge)
+![Bugs](https://img.shields.io/badge/Hidden%20Bugs-2F5D9F?style=for-the-badge)
+![Production](https://img.shields.io/badge/Production-3A6FB0?style=for-the-badge)
+![Chaos](https://img.shields.io/badge/Chaos-4C82C3?style=for-the-badge)
 
 </div>
 
